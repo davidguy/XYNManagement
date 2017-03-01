@@ -1,0 +1,2 @@
+# XYNManagement
+R Package 'XYNManagement'
